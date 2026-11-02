@@ -1,5 +1,7 @@
 ![Cinema — interface desktop / desktop interface](assets/cinema-interface.png)
 
+<p align="center"><img src="assets/cinema-icon.png" width="120" alt="Ícone da aplicação Cinema / Cinema app icon"></p>
+
 # Cinema
 
 **[Português](#português) · [English](#english)**
