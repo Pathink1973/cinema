@@ -1,0 +1,15 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.p12
+*.p8
+*.mobileprovision
+library.json
+# Capturas locais: podem conter conta, catálogo ou ligações privadas.
+tmdb-formulario.png
+assets/web-cinema-iphone.png

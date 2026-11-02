@@ -1,0 +1,24 @@
+Cinema — recursos e serviços de terceiros
+
+O código original é disponibilizado sob a licença MIT em LICENSE.
+O ícone Cinema foi criado para este projeto com assistência de geração de imagem.
+
+TMDB: dados, imagens e o logótipo Sources/Cinema/Resources/tmdb.svg
+pertencem aos respetivos titulares e estão sujeitos aos termos do TMDB.
+A licença MIT do projeto não concede direitos sobre esses materiais.
+https://www.themoviedb.org
+https://developer.themoviedb.org/docs/faq
+This product uses the TMDB API but is not endorsed or certified by TMDB.
+
+VLC e FFmpeg são aplicações externas; não se distribuem os seus executáveis
+neste repositório nem no bundle produzido pelo script. As respetivas licenças
+aplicam-se a essas aplicações. Se as redistribuíres, verifica as obrigações
+correspondentes à versão e configuração que utilizares.
+https://www.videolan.org/legal.html
+https://ffmpeg.org/legal.html
+
+Referências visuais, sem reutilização de código:
+https://github.com/Fardin7798/apple-tv-launcher
+https://github.com/petrobot-admin/hume-launcher
+
+Não são incluídos filmes, legendas comerciais, bibliotecas pessoais ou tokens.
